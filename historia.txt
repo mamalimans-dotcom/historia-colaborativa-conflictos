@@ -1,3 +1,7 @@
 "Esta es una historia sobre los conflictos que marcaron la evoluci¢n humana." 
 "Esta es una historia sobre los conflictos es larga." 
 "Esta es una historia seguira por a¤os." 
+
+
+Y así, fulano comprendió que cada línea de código era también una línea de su propia historia.
+Fin - Versión fulano.
